@@ -56,5 +56,3 @@ filename = ID
 prePlot.write(filename)
 # Plotting Function 
 plot.run(filename)
-
-#start with multiple plots, move to multiple definitions

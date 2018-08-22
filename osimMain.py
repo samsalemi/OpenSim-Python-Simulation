@@ -1,4 +1,8 @@
+# August 20th 2018
+# Author: Samuel Salemi
+# University of Guelph Masters Candidate
 # This script is the main function for all OSIM scripts to date
+
 import scaling
 import IK
 import ID

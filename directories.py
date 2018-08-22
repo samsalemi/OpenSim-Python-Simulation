@@ -1,3 +1,8 @@
+# August 4th 2018
+# Author: Samuel Salemi
+# University of Guelph Masters Candidate
+# This is a directory module 
+
 def main(directories):
     parentDir = "E:/Documents/University/Masters/Sandbox/Project"
     paramsDir = parentDir + "/genericSettings"

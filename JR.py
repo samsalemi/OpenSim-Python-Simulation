@@ -1,3 +1,8 @@
+# August 21st 2018
+# Author: Samuel Salemi
+# University of Guelph Masters Candidate
+# This module is an OpenSim tool created for Static optimization and Computed Muscle Control data to achieve Joint Reaction forces and loads in model
+
 def run(setup,resultsDirectory):
     import os
     import re

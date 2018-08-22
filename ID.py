@@ -1,6 +1,8 @@
 # June 11 2018
 # Author: Samuel Salemi
-# The script runs inverse dynamics trials for the Gait2354 Model.
+# University of Guelph Masters Candidate
+# The script runs inverse dynamics trials for the Gait2354 Model
+
 def inverseDynamics():
     import os
     import re

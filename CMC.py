@@ -1,3 +1,8 @@
+# August 13th 2018
+# Author: Samuel Salemi
+# University of Guelph Masters Candidate
+# This module is an OpenSim tool created for Computed Muscle Control 
+
 import os
 import opensim as osim
 import sys

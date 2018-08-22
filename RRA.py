@@ -1,3 +1,8 @@
+# August 6th 2018
+# Author: Samuel Salemi
+# University of Guelph Masters Candidate
+# This module completes RRA for the model following Inverse Dynamics
+
 import os
 import opensim as osim
 import sys

@@ -1,3 +1,8 @@
+# August 14th 2018
+# Author: Samuel Salemi
+# University of Guelph Masters Candidate
+# This module writes out excel files for the plotter 
+
 def write(filename):
 
     import opensim as osim

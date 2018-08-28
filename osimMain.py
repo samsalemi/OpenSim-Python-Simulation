@@ -22,7 +22,7 @@ soResultsDir = allDir[8]
 cmcResultsDir = allDir[10]
 jrResultsDir = allDir[11]
 
-# scaling.scale()
+scaling.scale()
 # IK.inverseKinematics()
 # ID.inverseDynamics()
 
@@ -37,7 +37,24 @@ time - t0 & t1
 
 # # readTRC.plot()
 # RRA.reduceResidualActuators()
-# CMC.computedMuscleControl()
+"""
+inputs 
+Knee, hip, ankle actuators
+subresults directories for the above^
+"""
+knee = paramsDir + "/" + "cmcKneeActuators.xml"
+hip = paramsDir + "/" + "cmcHipActuators.xml"
+ankle = paramsDir + "/" + "cmcAnkleActuators.xml"
+genCmc = paramsDir + "/" + "cmcActuators.xml"
+
+kneeSubResults = cmcResultsDir + "/" + "knee"
+hipSubResults = cmcResultsDir + "/" + "hip"
+ankleSubResults = cmcResultsDir + "/" + "ankle"
+genCmcResults = cmcResultsDir
+
+cmcActuators = genCmc 
+resultsDirectory = genCmcResults
+# CMC.computedMuscleControl(cmcActuators,resultsDirectory)
 
 """
 inputs
@@ -57,6 +74,6 @@ cmcJR = cmcResultsDir + "/" + "_Gait2354 Joint RXN_ReactionLoads.sto"
 filename = ID
 
 # Write Function
-prePlot.write(filename)
+# prePlot.write(filename)
 # Plotting Function 
-plot.run(filename)
+# plot.run(filename)

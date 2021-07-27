@@ -1,6 +1,6 @@
 # June 7 2018
 # Author: Samuel Salemi
-# University of Guelph Masters Candidate
+# University of Guelph Masters Graduate
 # This script determines scaling factors and places them on model Gait2354
 
 

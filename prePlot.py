@@ -1,6 +1,6 @@
 # August 14th 2018
 # Author: Samuel Salemi
-# University of Guelph Masters Candidate
+# University of Guelph Masters Graduate
 # This module writes out excel files for the plotter 
 
 def write(filename):

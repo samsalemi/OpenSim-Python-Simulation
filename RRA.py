@@ -1,6 +1,6 @@
 # August 6th 2018
 # Author: Samuel Salemi
-# University of Guelph Masters Candidate
+# University of Guelph Masters Graduate
 # This module completes RRA for the model following Inverse Dynamics
 
 import os

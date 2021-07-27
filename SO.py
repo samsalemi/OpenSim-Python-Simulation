@@ -1,6 +1,6 @@
 # June 19 2018
 # Author: Samuel Salemi
-# University of Guelph Masters Candidate
+# University of Guelph Masters Graduate
 # The script runs Static Optimization trials for the Gait2354 Model.
 
 

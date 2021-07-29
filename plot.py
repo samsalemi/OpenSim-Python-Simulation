@@ -1,6 +1,6 @@
 # August 20th 2018
 # Author: Samuel Salemi
-# University of Guelph Masters Candidate
+# University of Guelph Masters Graduate
 # This module runs a plotting program for several different OpenSim tools
 
 def run(filename):

@@ -1,6 +1,6 @@
 # August 4th 2018
 # Author: Samuel Salemi
-# University of Guelph Masters Candidate
+# University of Guelph Masters Graduate
 # This is a directory module 
 
 def main(directories):
